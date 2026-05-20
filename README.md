@@ -363,4 +363,3 @@ The app includes 28 carefully curated astronomy facts:
 ---
 
 **⭐ If you found this project helpful, give it a star on GitHub!**
->>>>>>> 38afc2e3ee97ca54b32c66322146d14912c63aba
