@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+# cosmofacts
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+=======
 # 🌌 CosmoFacts - Astronomy Facts Mobile App
 
 <div align="center">
@@ -363,3 +382,4 @@ The app includes 28 carefully curated astronomy facts:
 ---
 
 **⭐ If you found this project helpful, give it a star on GitHub!**
+>>>>>>> 38afc2e3ee97ca54b32c66322146d14912c63aba
